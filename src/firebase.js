@@ -6,7 +6,7 @@ const firebaseConfig = {
     projectId: "treinazap-7bec8",
     storageBucket: "treinazap-7bec8.appspot.com",
     messagingSenderId: "317966996675",
-    appId: "1:317966996675:web:a8bbbb017af425e1607e76"
+    appId: "1:317966996675:web:a8bbbb017af425e1607e76" 
 };	
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);	
